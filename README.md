@@ -1,5 +1,4 @@
 # Standardy i Konwersja Danych
-Opis
 
 Repozytorium zawiera zestaw skryptów do przetwarzania, analizy i wizualizacji danych geoprzestrzennych. Zawarte narzędzia umożliwiają:
 
