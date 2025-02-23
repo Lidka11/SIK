@@ -1,4 +1,4 @@
-#📏 Standardy i konwersja danych 🗺️🛠️
+# 📏 Standardy i konwersja danych 🗺️🛠️
 
 Repozytorium zawiera zestaw skryptów do przetwarzania, analizy i wizualizacji danych geoprzestrzennych 🌍. Kod umożliwia:
 
