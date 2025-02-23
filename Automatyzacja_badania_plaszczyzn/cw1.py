@@ -55,8 +55,8 @@ def cut_roof(roof_point, cloud_xyz):
 
 if __name__ == "__main__":
     # Ścieżki do plików
-    las_path = r"C:\sem 4\Standardy 3D\1904\2604\lidar.laz"
-    gml_path = r"C:\sem 4\Standardy 3D\1904\2604\lod_2_jeden_budynek.gml"
+    las_path = r"lidar.laz"
+    gml_path = r"budynek.gml"
 
     # Wczytanie pliku LAS/LAZ i filtrowanie punktów klasy "budynek" (klasa 6)
     points_cloud = laspy.read(las_path)
