@@ -6,7 +6,7 @@ Niniejszy projekt realizuje zadanie automatycznej oceny jakości odwzorowania po
 
 Dane wejściowe
 
-Modele budynków w standardzie CityGML LOD 2
+Model budynku w standardzie CityGML LOD 2
 
 Chmura punktów LIDAR (LAS/LAZ) pochodząca z lotniczego skanowania laserowego
 
