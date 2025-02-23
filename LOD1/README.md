@@ -31,4 +31,6 @@ Co robi skrypt B?
 ✅ Wizualizuje i zapisuje wynik jako plik .ply
 
 Przykład:
+
+
 ![image](https://github.com/user-attachments/assets/74ee0233-2333-41de-8ad0-06741fd73a41)
