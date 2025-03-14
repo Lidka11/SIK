@@ -18,17 +18,28 @@ Dane wejściowe
 
 Projekt obejmuje dwa skrypty A i B.
 Co robi skrypt A?
+
 ✅ Pobiera i przetwarza dane NMPT, NMT oraz BDOT10k
+
 ✅ Przycina je do obszaru wybranego kafelka
+
 ✅ Łączy rastry NMPT i NMT
+
 ✅ Tworzy plik geopackage z budynkami
 
+
 Co robi skrypt B?
+
 ✅ Wczytuje dane NMT, NMPT oraz BDOT10k
+
 ✅ Tworzy model 3D terenu na podstawie rastra NMT
+
 ✅ Ekstruduje budynki na podstawie wysokości z NMPT i NMT
+
 ✅ Łączy teren i budynki w jeden model 3D
+
 ✅ Wizualizuje i zapisuje wynik jako plik .ply
+
 
 Przykład:
 
